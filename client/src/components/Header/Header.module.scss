@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.link {
+  color: black;
+  padding: 10px 15px;
+  font-family: sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    color: #ff9800;
+  }
+}
+
+.nav {
+  display: flex;
+}
